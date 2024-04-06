@@ -1,0 +1,42 @@
+- Lists
+- 2D lists
+- List method: append
+- Zero-Indexing
+- List Indices
+- Zero list Indices
+- Accessing 2D lists
+- Modifying 2D lists
+- List method: .remove()
+- List method: .count()
+- Determining List length with len()
+- List method: .sort()
+- List slicing (basic)
+- sorted() function
+- List method: .insert()
+- List method .pop()
+- Comments
+- Arithmetic Operations
+- Plus-Equals Operator
+- Variables
+- Modulo Operator
+- Integers
+- String Concatenation
+- Strings
+- Print function
+- Floating point numbers
+- Elif statement
+- or Operator
+- Equal Operator
+- not equals operator
+- Comparison operators
+- if statement
+- else statement
+- and operator
+- boolean values
+- not operator
+- for loop
+- using range in loop
+- while loop
+- what are infinite loops
+- controlling loops (continue & break)
+- elegant loops (list comprehension)
