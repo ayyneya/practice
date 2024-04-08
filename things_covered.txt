@@ -40,3 +40,6 @@
 - what are infinite loops
 - controlling loops (continue & break)
 - elegant loops (list comprehension)
+- User functions
+- Built in functions: min(), max(), round()
+- Variable Access
